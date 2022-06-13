@@ -1,0 +1,18 @@
+{
+  "name": "myplanet",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.9.9",
+    "vite-plugin-string": "^1.1.2"
+  },
+  "dependencies": {
+    "gsap": "^3.10.4",
+    "three": "^0.141.0"
+  }
+}
